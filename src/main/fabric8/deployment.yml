@@ -10,3 +10,7 @@ spec:
             limits:
               cpu: "1.0"
               memory: 512Mi
+            ports:
+              containerPort:8101
+              name:"sshd"
+              protocol:"TCP"        
