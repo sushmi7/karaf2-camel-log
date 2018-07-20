@@ -194,6 +194,7 @@
             <feature>karaf-framework</feature>
             <feature>shell</feature>
             <feature>jaas</feature>
+            <feature>ssh</feature>
             <feature>aries-blueprint</feature>
             <feature>camel-blueprint</feature>
             <feature>fabric8-karaf-blueprint</feature>
